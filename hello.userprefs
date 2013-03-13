@@ -1,0 +1,54 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SharpUnit/Unity3D_TestRunner.cs">
+    <Files>
+      <File FileName="Assets/Hello/Ball.cs" Line="23" Column="2" />
+      <File FileName="Assets/Hello/Racket.cs" Line="13" Column="1" />
+      <File FileName="Assets/SharpUnit/Unity3D_TestSuite.cs" Line="59" Column="47" />
+      <File FileName="Assets/Tests/UnityCSharpPracticeTest.cs" Line="14" Column="1" />
+      <File FileName="Assets/SharpUnit/Unity3D_TestRunner.cs" Line="37" Column="112" />
+      <File FileName="Assets/SharpUnit/UnitTest.cs" Line="1" Column="1" />
+      <File FileName="Assets/SharpUnit/UnityTestCase.cs" Line="21" Column="1" />
+      <File FileName="Assets/SharpUnit/TestException.cs" Line="1" Column="1" />
+      <File FileName="Assets/SharpUnit/ITestCase.cs" Line="1" Column="1" />
+      <File FileName="Assets/SharpUnit/TestCase.cs" Line="35" Column="51" />
+      <File FileName="Assets/SharpUnit/Assert.cs" Line="1" Column="1" />
+      <File FileName="Assets/SharpUnit/TestReporter.cs" Line="36" Column="12" />
+      <File FileName="Assets/SharpUnit/TestResult.cs" Line="39" Column="40" />
+      <File FileName="Assets/SharpUnit/Unity3D_TestReporter.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Assets" expanded="True">
+              <Node name="Hello" expanded="True" />
+              <Node name="SharpUnit" expanded="True">
+                <Node name="Unity3D_TestRunner.cs" selected="True" />
+              </Node>
+              <Node name="Tests" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True" selected="True">
+            <Node name="SharpUnit" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
